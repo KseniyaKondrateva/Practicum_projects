@@ -16,11 +16,11 @@
 
 
 ## Сертификаты
-[Диплом] (https://drive.google.com/file/d/1gJ3w-WLRoW_XDmly2PTXWOhu26ycYDRd/view?usp=sharing)
+[Диплом](https://drive.google.com/file/d/1gJ3w-WLRoW_XDmly2PTXWOhu26ycYDRd/view?usp=sharing)
 
 
 ## Контакты
-[Telegram] (https://t.me/Kseniya_Kondrateva07)
+[Telegram](https://t.me/Kseniya_Kondrateva07)
 
 
 
