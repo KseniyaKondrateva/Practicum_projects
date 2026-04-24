@@ -13,7 +13,7 @@
  | № | Название проекта | Описание проекта | Статус | Стек |
 |---|------------------|------------------|--------|------|
 | 1 | [Анализ данных проекта DonorSearch](https://github.com/KseniyaKondrateva/Practicum_projects/blob/main/DonorSearch/DonorSearch_README.md) | Исследование поведения доноров, а также определение факторов, влияющих на активность доноров.| завершен | `Dbeaver`, `SQL`|
-| 2 | [Анализ данных развивающегося маркетплейса](/Practicum_projects/marketplace/marketplace_README.md) | Проведен анализ данных маркетплейса, выявлены прибыльные каналы и категории товаров.| завершен | `Jupyter Notebook`, `Python`|
+| 2 | [Анализ данных развивающегося маркетплейса](https://github.com/KseniyaKondrateva/Practicum_projects/blob/main/marketplace/marketplace_README.md) | Проведен анализ данных маркетплейса, выявлены прибыльные каналы и категории товаров.| завершен | `Jupyter Notebook`, `Python`|
 
 
  
