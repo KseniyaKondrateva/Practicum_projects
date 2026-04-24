@@ -1,6 +1,6 @@
 # Анализ данных развивающегося маркетплейса
 
-#### [Посмотреть работу](https://github.com/KseniyaKondrateva/Practicum_projects/blob/main/DonorSearch/DonorSearch.sql)
+#### [Посмотреть работу](https://github.com/KseniyaKondrateva/Practicum_projects/blob/main/marketplace/analys_marketplace.ipynb)
 
 ## Цель исследования
 Провести анализ данных маркетплейса, выявить прибыльные каналы и категории товаров.
