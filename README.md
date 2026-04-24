@@ -20,7 +20,7 @@
 
 
 ## Контакты
-[Telegram](https://t.me/Kseniya_Kondrateva07)
+Telegram:(https://t.me/Kseniya_Kondrateva07)
 
 
 
