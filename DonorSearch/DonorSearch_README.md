@@ -1,6 +1,6 @@
 # Анализ данных проекта DonorSearch
 
-## [Посмотреть SQL-код]((./Practicum_projects/DonorSearch/DonorSearch.sql))
+## [Посмотреть SQL-код](./Practicum_projects/DonorSearch/DonorSearch.sql)
 
 ## Цель исследования
 Мотивировать людей становиться донорами и делать регулярные донации. Определить факторы, влияющие на активность доноров.
