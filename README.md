@@ -16,7 +16,7 @@
 
 
 ## Сертификаты
-[Диплом](https://drive.google.com/file/d/1gJ3w-WLRoW_XDmly2PTXWOhu26ycYDRd/view?usp=sharing)
+Яндекс Практикум [Диплом](https://drive.google.com/file/d/1gJ3w-WLRoW_XDmly2PTXWOhu26ycYDRd/view?usp=sharing)
 
 
 ## Контакты
